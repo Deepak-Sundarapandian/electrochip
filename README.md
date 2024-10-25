@@ -1,2 +1,2 @@
 # electrochip
-Responsive landing page using HTML, CSS, BOOTSTRAP Website 
+Responsive landing page using HTML, CSS, BOOTSTRAP and javascript Website 
